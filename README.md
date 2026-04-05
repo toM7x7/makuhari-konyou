@@ -32,6 +32,7 @@
 
 ## 先に読むドキュメント
 
+- [Roadmap](./ROADMAP.md)
 - [ローカル環境セットアップ](./docs/environment-bootstrap.md)
 - [外部設定と API キーのチェックリスト](./docs/external-services-checklist.md)
 - [Supabase 初期化メモ](./infra/supabase/README.md)
