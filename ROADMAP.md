@@ -192,6 +192,7 @@ MVP を外に出しても壊れにくい状態にする。
 
 ## 参照
 
+- [Tasks](./TASKS.md)
 - [README](./README.md)
 - [ローカル環境セットアップ](./docs/environment-bootstrap.md)
 - [外部設定と API キーのチェックリスト](./docs/external-services-checklist.md)
