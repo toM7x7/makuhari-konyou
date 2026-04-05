@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title>幕張 青木昆陽</title>
+  <rect width="256" height="256" rx="48" fill="#182237" />
+  <circle cx="128" cy="84" r="46" fill="#f2c078" />
+  <path d="M58 208c10-46 42-74 70-74s60 28 70 74" fill="#f0e7da" />
+  <path d="M92 58c16-18 56-24 76 2-10 2-18 7-24 16-10-7-28-7-52-18Z" fill="#0d1320" />
+  <path d="M54 202c28-20 64-30 74-30s46 10 74 30" stroke="#f08f30" stroke-width="18" stroke-linecap="round" fill="none" />
+</svg>

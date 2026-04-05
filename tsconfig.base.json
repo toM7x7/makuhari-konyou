@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "noEmit": true,
+    "allowJs": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    "baseUrl": ".",
+    "paths": {
+      "@makuhari/shared-types": [
+        "./packages/shared-types/src/index.ts"
+      ],
+      "@makuhari/preset-engine": [
+        "./packages/preset-engine/src/index.ts"
+      ],
+      "@makuhari/prompt-builder": [
+        "./packages/prompt-builder/src/index.ts"
+      ],
+      "@makuhari/analytics": [
+        "./packages/analytics/src/index.ts"
+      ]
+    }
+  }
+}

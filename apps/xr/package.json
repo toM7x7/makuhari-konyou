@@ -1,0 +1,8 @@
+{
+  "name": "@makuhari/xr",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "typecheck": "node -e \"console.log('8th Wall self-host workspace: no TypeScript project yet')\""
+  }
+}
